@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! Soy Yeray 👋
 
-<!--
-**yerayy11/yerayy11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Francisco Ayala, Granada.
 
-Here are some ideas to get you started:
+Me interesa el desarrollo de aplicaciones Android completas (backend + frontend) y el desarrollo web. Ahora mismo estoy ampliando lo que doy en clase con proyectos propios para seguir aprendiendo de forma práctica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologías
+- Java
+- SQL
+- Android
+- Git / GitHub
+
+## 📌 En qué estoy trabajando
+Actualmente desarrollando una app Android y una página web propias — iré subiendo aquí los repositorios en cuanto estén en un estado presentable.
+
+## 📫 Contacto
+- LinkedIn: linkedin.com/in/yeray-martinez
